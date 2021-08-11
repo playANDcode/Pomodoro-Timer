@@ -35,11 +35,11 @@ def timer_with_menu(t: int):
             print(timer, end="\r")
             time.sleep(1)
             t -= 1
-            # Bug:
-            # Description: While these timer specifically try block is running, inputs gets recorded;
-            # ;The recorded inputs then transfers to the "except block"
-            # Replicate: While timer is running, press keys in the keyboard randomly
         except KeyboardInterrupt:
+            # Clear recorded user inputs, Fix for bug#1
+            while msvcrt.kbhit():
+                msvcrt.getch()
+                
             # Menu, also acts to PAUSE the timer
             print()  # so that timer text won't get removed 
             playsound(soundfile_directories('menu'), False)
