@@ -1,0 +1,2 @@
+- Rename the notice when the timer starts
+- Make it so that when the timer stops, it doesn't get removed. Paused time are an exception
