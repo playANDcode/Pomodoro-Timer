@@ -18,3 +18,4 @@ Features:
   Auto Pomodoro - Automatically continues to next timer
 
 - Ctrl + C to pause the timer
+- Beautiful Sound Selection
