@@ -1,9 +1,9 @@
 # Pomodoro-Timer
-!!IMPORTANT!!
+**!!IMPORTANT!!**
 
 Install playsound module
 
-How to run:
+**How to run:**
 
 - Copy the current directory of where pomodorov2.py is.
 
@@ -15,13 +15,13 @@ How to run:
 
 - Type:  python pomodorov2.py
 
-Description
+**Description**
 
 A console based pomodoro timer. In browsers, they are often bundled with other features. I hate it since they use lots of memory in ram. 
 So I created a simple, not memory hungry pomdo timer.
 
 
-Features:
+**Features:**
 
 - Switch between 
 
