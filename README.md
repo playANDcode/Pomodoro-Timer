@@ -1,15 +1,10 @@
 # Pomodoro-Timer
 
-
-
 **How to run:**
 
 - Copy the current directory of where pomodorov2.py is.
-
 <img src="https://user-images.githubusercontent.com/85435538/129130515-8625f725-7b4e-43ba-8d4f-21b3d44c2277.gif" alt="Copy pasting directory in File Explorer" width="500" height='158'/>
-
 - Run CMD
-
 - Type:  `cd (paste what you copied here)`
 - **(Important)** Install the required modules by running the command: `pip install requirements.txt`
 - Type:  `python pomodorov2.py`
@@ -23,7 +18,6 @@ So I created a simple, not memory hungry pomdo timer.
 **Features:**
 
 - Switch between 
-
   Manual Pomodoro - Manually press enter to continue to next timer
 
   Auto Pomodoro - Automatically continues to next timer
