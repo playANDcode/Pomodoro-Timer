@@ -4,8 +4,7 @@ Install playsound module
 
 Description
 
-A console based pomodoro timer. 
-Browser pomodoro timer are often bundled with other features. I hate it since they use lots of memory in ram. 
+A console based pomodoro timer. In browsers, they are often bundled with other features. I hate it since they use lots of memory in ram. 
 So I created a simple, not memory hungry pomdo timer.
 
 
