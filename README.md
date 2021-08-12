@@ -1,7 +1,6 @@
 # Pomodoro-Timer
-**!!IMPORTANT!!**
 
-Install playsound module
+
 
 **How to run:**
 
@@ -11,9 +10,9 @@ Install playsound module
 
 - Run CMD
 
-- Type:  cd (paste what you copied here)
-
-- Type:  python pomodorov2.py
+- Type:  `cd (paste what you copied here)`
+- **(Important)** Install the required modules by running the command: `pip install requirements.txt`
+- Type:  `python pomodorov2.py`
 
 **Description**
 
