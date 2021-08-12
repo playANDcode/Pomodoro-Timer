@@ -2,6 +2,7 @@ from playsound import playsound
 import time
 import os
 import random as rndm
+import msvcrt
 
 """
 Todo:
@@ -14,6 +15,7 @@ Todo:
 - Add a restart in menu/pause to restart the cycle of pomodoro
     - Notify the user how many left before long break
     - Make the user confirm the restart of cycle
+- msvcrt only works for windows
 """
 
 def soundfile_directories(filename: str):
