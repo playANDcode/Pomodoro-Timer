@@ -28,7 +28,8 @@ So I created a simple, not memory hungry pomdo timer.
 - Ctrl + C to pause the timer
 - Beautiful Sound Selection
 
-Preview of the App:
-This is a gif, sounds aren't included.
+**Preview of the App:**
+
+This is a gif, in app sounds aren't included.
 
 ![Example4](https://user-images.githubusercontent.com/85435538/129162800-84b3216c-8d40-4cd0-ab9a-c35cbc6aaed4.gif)
