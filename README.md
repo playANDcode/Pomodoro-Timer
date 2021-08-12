@@ -10,6 +10,10 @@ So I created a simple, not memory hungry pomdo timer.
 
 Features:
 
-Switch between 
-Manual Pomodoro - Manually press enter to continue to next timer
-Auto Pomodoro - Automatically continues to next timer
+- Switch between 
+
+  Manual Pomodoro - Manually press enter to continue to next timer
+
+  Auto Pomodoro - Automatically continues to next timer
+
+- Ctrl + C to pause the timer
