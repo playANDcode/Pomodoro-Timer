@@ -18,7 +18,7 @@
 
 - Done! Just double click the "Run Pomodoro Tracker.cmd" to open the app.  
 
-- Note: Whenever you move the folder of the app, you have to repeat these steps again.
+**Note:** Whenever you move the folder of the app, you have to repeat these steps again.
 
 **Description**
 
