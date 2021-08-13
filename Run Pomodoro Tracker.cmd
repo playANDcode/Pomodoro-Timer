@@ -1,2 +1,2 @@
-cd "D:\Apps made by me\Pomodoro"
+cd "paste here"
 python pomodorov2.py
