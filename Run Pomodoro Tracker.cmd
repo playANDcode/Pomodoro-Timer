@@ -1,2 +1,2 @@
-cd "Remove the quotation marks and paste what you copied earlier here."
+cd "D:\Apps made by me\Pomodoro"
 python pomodorov2.py
