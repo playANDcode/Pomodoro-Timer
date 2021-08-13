@@ -16,6 +16,10 @@
 
 <img src="https://user-images.githubusercontent.com/85435538/129286237-26fb0dd7-c024-445c-9d01-80057e4bab55.gif" width="500" height='177'/>
 
+- Done! Just double click the "Run Pomodoro Tracker.cmd" to open the app.  
+
+- Note: Whenever you move the folder of the app, you have to repeat these steps again.
+
 **Description**
 
 A console based pomodoro timer. In browsers, they are often bundled with other features. I hate it since they use lots of memory in ram. 
@@ -32,7 +36,7 @@ So I created a simple, not memory hungry pomdo timer.
 
 - Low memory consumption
 
-**Preview of the App:**
+**Preview**
 
 This is a gif, in app sounds aren't included.
 
