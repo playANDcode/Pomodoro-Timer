@@ -20,7 +20,7 @@ Todo:
 def soundfile_directories(filename: str):
     """
     Automatically adapts whatever operating system or folder directory;
-    As long as files are in 'Sounds' directory
+    As long as soundfiles are in 'Sounds' directory
     and you're running cmd in pomodoro folder
     """
     path = os.path.join(os.getcwd(), 'Sounds', filename + '.mp3')
@@ -49,7 +49,7 @@ def timer_with_menu(t: int):
             # ;press keys in the keyboard randomly
         except KeyboardInterrupt:
             # Menu, also acts to PAUSE the timer
-            print()  # so that timer text won't get removed
+            print()
             playsound(soundfile_directories('menu'), False)
             response = input("-- Press 'enter' to unpause \
                             \n-- Type s to skip timer \
@@ -58,7 +58,7 @@ def timer_with_menu(t: int):
                             \nYour Response Here: ").lower()
             if response == '':
                 playsound(soundfile_directories('unpause'), False)
-                continue  # Unpause the timer
+                continue  # Resume the timer
             elif response == 's':
                 break  # Skip to next timer
             elif response == 'r':
