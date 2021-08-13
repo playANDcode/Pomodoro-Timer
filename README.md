@@ -4,7 +4,7 @@
 
 - Install the required modules by running the command: `pip install requirements.txt`
 
-- Uses Python 3.9.1 but any version as long as it's Python 3 will work fine. Any version incompatibility, please let me know. 
+- Uses Python 3.9.1 but any version works as long as it's in Python 3. Any incompatibilities, please let me know. 
 
 **How to run:**
 
