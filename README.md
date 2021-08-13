@@ -14,11 +14,12 @@
 
 - Edit the "Run Pomodoro Tracker.cmd" and paste what you copied there. It's important not to remove the "quotation marks".
 
+<img src="https://user-images.githubusercontent.com/85435538/129286237-26fb0dd7-c024-445c-9d01-80057e4bab55.gif" width="500" height='177'/>
+
 **Description**
 
 A console based pomodoro timer. In browsers, they are often bundled with other features. I hate it since they use lots of memory in ram. 
 So I created a simple, not memory hungry pomdo timer.
-
 
 **Features:**
 
