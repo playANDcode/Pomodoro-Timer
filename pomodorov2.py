@@ -104,15 +104,35 @@ def tomato_longbreak(mode, default_time=900):  # 900sec is 15min
     manual_or_not(mode)
 
 
-i = 0  # Set the increment
+def user_manual():
+    print("\n")
+    print("--USER MANUAL--".center(50))
+    print("Timer Mode:")
+    print("   Auto Pomodoro, automatically proceeds to next timer")
+    print("   Manual Pomodoro, asks the user before proceeding to next timer")
 
-print("--POMODORO--".center(50))
-response = input("-- a for auto pomodoro \
-                \n-- m for manual pomodoro \
-                \n-- h for help \
-                \nYour Response Here: ")
-if response == 'h':
-    print("These feature will be available soon...")
+    print("\nOther features:")
+    print("   Ctrl + C to pause timer")
+    input("\nPress enter to continue...")
+    print("\n\n")
+
+
+while True:   
+    print("--POMODORO--".center(50))
+    response = input("-- a for auto pomodoro \
+                    \n-- m for manual pomodoro \
+                    \n-- h for help \
+                    \nYour Response Here: ").lower()
+    if response == 'h':
+        user_manual()
+    elif response in ('a', 'h'):
+        break
+    else:
+        input("!!Try again!! \
+            \nType a single letter of your chosen mode. \
+            \nPress enter to continue...")
+
+i = 0  # Set the increment
 while True:
     tomato_start(response)
     i += 1
