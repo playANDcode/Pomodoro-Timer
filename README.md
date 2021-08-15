@@ -7,7 +7,9 @@
 - Uses Python 3.9.1 but any version works as long as it's in Python 3. Any incompatibilities, please let me know. 
 
 **How to run:**
+
 Bug: Running it in IDE's doesn't work. For it to work, your IDE must be in pomodoro's directory.
+
 Workaround Fix: Always run the app through "Run Pomodoro Tracker.cmd"
 
 - Copy the current directory of where pomodorov2.py is.
