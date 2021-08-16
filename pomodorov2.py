@@ -125,7 +125,7 @@ while True:
                     \nYour Response Here: ").lower()
     if response == 'h':
         user_manual()
-    elif response in ('a', 'h'):
+    elif response in ('a', 'm'):
         break
     else:
         input("!!Try again!! \
