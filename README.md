@@ -8,9 +8,6 @@
 
 **How to run:**
 
-Bug: Running it in IDE's doesn't work. For it to work, your IDE must be in pomodoro's directory.
-
-Workaround Fix: Always run the app through "Run Pomodoro Tracker.cmd"
 
 - Copy the current directory of where pomodorov2.py is.
 
@@ -21,6 +18,10 @@ Workaround Fix: Always run the app through "Run Pomodoro Tracker.cmd"
 <img src="https://user-images.githubusercontent.com/85435538/129286237-26fb0dd7-c024-445c-9d01-80057e4bab55.gif" width="500" height='177'/>
 
 - Done! Just double click the "Run Pomodoro Tracker.cmd" to open the app.  
+
+Bug: Running it in IDE's doesn't work. For it to work, your IDE must be in pomodoro's directory.
+
+
 
 **Note:** Whenever you move the folder of the app, you have to repeat these steps again.
 
