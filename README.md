@@ -19,7 +19,7 @@
 
 - Done! Just double click the "Run Pomodoro Tracker.cmd" to open the app.  
 
-Bug: Running it in IDE's currently doesn't work.
+
 
 
 
